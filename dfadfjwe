@@ -1,0 +1,840 @@
+commit 80f7a658b19654dec5bac36d9622caa04754bcd7
+Author: Best Corder <idea399@outlook.com>
+Date:   Wed Jul 28 13:17:08 2021 -0500
+
+    some changes
+
+commit e652918f4697ff95129a05db558eb398ace5f9c1
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Mon Jun 21 21:37:31 2021 +0800
+
+    products created at sorting
+
+commit f3eeacb758609556d200de25ab9bec364d93d52a
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 18 14:57:10 2021 +0800
+
+    add states
+
+commit a1651b7cf4f19adc853b76432bb9c8936e9e9e18
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 18 14:28:51 2021 +0800
+
+    no rates found in your are fixed
+
+commit 1d4cf84f6df9abef8bd7cfa0241940cf91967e57
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 17 21:59:11 2021 +0800
+
+    change error message upon failed registration
+
+commit 49584cd9cd3c132cd313a44181c4132cffe430bc
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 17 03:47:11 2021 +0800
+
+    recaptcha fix
+
+commit 6a1918001d44ae9cd363a586cc4a99877a20e076
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 17 03:46:27 2021 +0800
+
+    recaptcha fix
+
+commit 2e1a6e337136b962bfc424702e24ec2c141ed8a3
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 17 03:16:17 2021 +0800
+
+    recatpcha fix
+
+commit 72a5263eedd4ca9c870512090f4822c07de39beb
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 17 02:37:07 2021 +0800
+
+    recatpcha fix
+
+commit c5355e7cfd7d335cff12f873019b5dbfd70ed973
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 16 23:49:23 2021 +0800
+
+    recaptcha fix
+
+commit 4093cb5e38a4284235f6707f03f9784a470a25e7
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 16 23:14:50 2021 +0800
+
+    recaptcha fix
+
+commit 6657939e9d95c738bd092789a7c2953a00e2a35a
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 16 23:07:50 2021 +0800
+
+    recaptcha fix
+
+commit dc7981bb25cd375dedf7cadc947bad8e4408856b
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 16 22:39:54 2021 +0800
+
+    recaptcha fix
+
+commit 4483ba9087407ba3967d724a68035bdd71816a2b
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 16 22:17:01 2021 +0800
+
+    remove recaptcha v3 and use v2 instead
+
+commit 20518e302ede5057f184e359604fb0a1b384db46
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Tue Jun 15 04:49:39 2021 +0800
+
+    change terms and conditions href in footer
+
+commit b6a30eb106f1e097690c688888bd415a935a5222
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Tue Jun 15 04:31:46 2021 +0800
+
+    terms and condition page and on checkout
+
+commit 340d3b4b57308e3a283bb7aa7f047f31372a3e39
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Mon Jun 14 23:19:28 2021 +0800
+
+    remove console.log and try to reset the data after response
+
+commit 6271320f03f3b7a59322b5cdcfe6c57f5b073358
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Mon Jun 14 23:06:42 2021 +0800
+
+    use on input instead of keyup on search
+
+commit 42779f92a5de4662f7ed16301ef180f370b4d2c6
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Mon Jun 14 22:35:45 2021 +0800
+
+    frontend search bar bug fix not showing results
+
+commit b2922464d421d279683901be7c3f99927ca53e15
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Mon Jun 14 22:21:54 2021 +0800
+
+    frontend search bar using api
+
+commit 836d3b871c31b27003d5c66f76edb3971a86bdd2
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 11 02:26:28 2021 +0800
+
+    sign in show validation errors
+
+commit 979263da2fd0cf76b717b2eb9e8f7a25ba8c2ddc
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 11 01:48:12 2021 +0800
+
+    bulk updates
+
+commit d5fb80815322a9ddc51d2be1a85ba959cc9d0b3c
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 11 01:47:26 2021 +0800
+
+    use the user inputed password
+
+commit 6c60eef37b42da164647e3cefd46df06a53b70a2
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 10 01:46:24 2021 +0800
+
+    remove dd()
+
+commit 2449706c6fc05bd4d6bee32c4ef186ac3b4b5dd5
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Sat Jun 5 04:56:39 2021 +0800
+
+    fix products percentage report
+
+commit f3e63c2b3dc54cb8d4aaad6bf87dc1a76b5abf86
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Sat Jun 5 04:50:14 2021 +0800
+
+    fix products percentage report
+
+commit 3ac749d03968ae4d2d88c6eab3b9ce887ad16347
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Sat Jun 5 04:44:59 2021 +0800
+
+    dashboard real data reports
+
+commit cc9e7eec518ce3b6a17c28e81e73ffc64353774b
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Sat Jun 5 03:22:43 2021 +0800
+
+    remove enter on placeholders
+
+commit d70b1a7bb35522a9e613d681fa15462a5cc5e3a1
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Sat Jun 5 03:19:35 2021 +0800
+
+    rename customer service to customer support
+
+commit 60883aef06cb12697ec48c45b0203769463c587d
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Sat Jun 5 01:19:44 2021 +0800
+
+    Contact us page revision
+
+commit 98752fe278dc9495c3ae640aa37e10e03b786b6e
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 4 03:15:01 2021 +0800
+
+    add date/timestamp on red flag in product list
+
+commit 493addaaa97e368bf9d02359d09292df4fb39cc0
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 4 02:41:09 2021 +0800
+
+    add max heigh on cards
+
+commit ab1d7767b6cc665893028dd057890eab55cace99
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 4 02:23:35 2021 +0800
+
+    fix image card height
+
+commit 43edbaee7e4869d7df08877f4290f0d00bdcd486
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Fri Jun 4 00:28:30 2021 +0800
+
+    fix edit of product brand and display of other products in landing page
+
+commit 3c971baf8ba532cfdb1c11d0f015151dc2d0ca5c
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 21:31:25 2021 +0800
+
+    fix phone brands edit validation
+
+commit fc5c8998a1afe9a870c4f4ee6197b170998ac8bc
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 21:11:56 2021 +0800
+
+    fix active status in settings sidebar
+
+commit b0b38fe7ceddc096a18a7b6f33ca492402b2adc5
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 21:02:47 2021 +0800
+
+    add password and confirm password in sign up page
+
+commit 88924bdf8b421b1e988110b1c5f74f7903649bb6
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 04:36:03 2021 +0800
+
+    add loading and validation if empty with changing the position of condition list
+
+commit 9f5336b9cb570c08648449c9171f0a62b10366ac
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 04:24:35 2021 +0800
+
+    add validation upon going to checkout page
+
+commit 27ea7fa46f68a5321f91e41b46e93fce0ea915bc
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 02:07:02 2021 +0800
+
+    smaller size of images in sub device page
+
+commit ac27e45e56b1edf0a482b18dfef392b02bf3d610
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 01:53:45 2021 +0800
+
+    sother devices image resize fix
+
+commit 85f0e5985f157e118d22829fd221bcee9fe00dcd
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Thu Jun 3 01:47:29 2021 +0800
+
+    fix sub pages get-offer animation not working
+
+commit 5b490a2fabda9ea76d92464502a0fcfe5236751b
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 2 23:41:07 2021 +0800
+
+    Bug fix for updating products
+
+commit babbe4051a8e41cbbccc4464ddc2712e9daba2a0
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed Jun 2 03:15:26 2021 +0800
+
+    revision for every phone should have specific network and minor bug fix
+
+commit 3e544d265f69d707842be5669f677a8d99faf403
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Tue Jun 1 01:48:56 2021 +0800
+
+    Fix page builder
+
+commit 284797cd34b08188cb96b29674848dc7bfdd31da
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Tue Jun 1 00:09:32 2021 +0800
+
+    activate pag builder
+
+commit 3b44c2b2971fc927b6785ae5c139b95129e25995
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Wed May 26 02:56:38 2021 +0800
+
+    CRUD for buying/selling device
+
+commit f4edfb2b78bf7993f78942c29753663697a16a59
+Author: Raymart Palermo <raymartbat20@gmail.com>
+Date:   Tue May 25 00:54:11 2021 +0800
+
+    Use settings phone storages on every select phone storage input
+
+commit b391166944a741b975b11c5f1b6186c3e34d6695
+Author: raymart palermo <raymartbat19@gmail.com>
+Date:   Mon May 24 23:09:16 2021 +0800
+
+    add phone storage management
+
+commit ae29233eeee82a0db65d3f9a7b856959de8634b3
+Author: raymart palermo <raymartbat20@gmail.com>
+Date:   Fri May 21 22:50:25 2021 +0800
+
+    reminder 7-days price guarantee
+
+commit 7c73b27496f289740e0be06eb9dfaaab3ee010c4
+Author: raymart palermo <raymartbat20@gmail.com>
+Date:   Tue May 18 03:58:33 2021 +0800
+
+    Add default phone carrier image
+
+commit 2c136d7ef95fbe8741654e3590ef19fdc74460f8
+Author: raymart palermo <raymartbat20@gmail.com>
+Date:   Tue May 18 03:47:52 2021 +0800
+
+    add CRUD phone carrier
+
+commit 86321fcce8130ef0f4966b7c01ce4f6445524f09
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue May 11 20:10:12 2021 +0400
+
+    terms & condition
+
+commit c1cf2dd73879e478259410c0593f7aa14d831045
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue May 11 19:13:57 2021 +0400
+
+    terms & condition
+
+commit 03efb502722d8e498d9ecff07a1017a8d81640f0
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue May 11 16:48:13 2021 +0400
+
+    changes in display in front end
+
+commit 73f46841a614856339ddaada748bf15d1cc82103
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon May 10 17:29:36 2021 +0400
+
+    adjustments
+
+commit 64f76d26054914a202fc5ea6087854d2494a7202
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon May 10 15:27:11 2021 +0400
+
+    do changes in email sending configuration
+
+commit 55625f5b1c6f27b57bbf1a414f454040636d5e1a
+Author: glenn13 <f.glenn.abalos>
+Date:   Fri May 7 00:26:07 2021 +0400
+
+    fix bug in registration
+
+commit 2edab2739819da29ed02d682052c1b1f275c2a3e
+Author: glenn13 <f.glenn.abalos>
+Date:   Fri May 7 00:23:24 2021 +0400
+
+    fix bug in registration
+
+commit 59fd8cc11971b8740d1c69fe0af8cd3188068f14
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 23:31:33 2021 +0400
+
+    fix bug in registration
+
+commit 85874d953d134142c2238b4907dd3d6df0d305f8
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 23:24:53 2021 +0400
+
+    fix bug in registration
+
+commit 851ea35a943f019b22180e9897e8c79597240ba2
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 23:20:03 2021 +0400
+
+    fix bug in registration
+
+commit 6030dad4462d356614c7e85925bf38ae2e540ce5
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 20:17:52 2021 +0400
+
+    fix bug in registration
+
+commit 05ef5aca64dea36e31e175306c4cb882798b748f
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 20:14:33 2021 +0400
+
+    fix bug in registration
+
+commit 64265faf2472b92989df6c6b9be9135d60e63a8e
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 20:12:50 2021 +0400
+
+    fix bug in registration
+
+commit 389ca5a51e32c084731ab64c2f7933286f437ea0
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 20:10:56 2021 +0400
+
+    fix bug in registration
+
+commit 4342771e8bccffda660c7829f883c1ba9033b196
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 20:00:02 2021 +0400
+
+    fix bug in registration
+
+commit 94b9b92f7b63a315b29f5c8c6c618a0dfe450898
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 19:56:57 2021 +0400
+
+    fix bug in registration
+
+commit f57c33f70171ed7a749fe7e34ac2f054795124e6
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 19:23:28 2021 +0400
+
+    fix bug in registration
+
+commit ba2645cc53578b7f7b5308dfe8515963649d5efa
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 19:09:46 2021 +0400
+
+    fix bug in registration
+
+commit e17bc57b49ea2f00ad908c10e8971b631c293702
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 19:06:21 2021 +0400
+
+    fix bug in registration
+
+commit b7e8594a8543162ceec03ca50b07a7ce92fe220e
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 19:03:25 2021 +0400
+
+    fix bug in registration
+
+commit 0092432bc75ecb92d326b4d7ba7a8177140f6d08
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 18:44:21 2021 +0400
+
+    fix bug in registration
+
+commit 5783063167e7d7bfec50e3541a40e9e2ead6d835
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 17:40:47 2021 +0400
+
+    fix bug in registration
+
+commit a0464e9fcaf13da0c0c4e041032184ea17f318fa
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu May 6 00:53:36 2021 +0400
+
+    New feature recaptcha
+
+commit d0728107f8349cd29631f110e1b649ed9b7aaf97
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed May 5 23:43:42 2021 +0400
+
+    New feature recaptcha
+
+commit 8d18a10835ebd28dc70ac7c749cc04f371f4d8dd
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed May 5 23:41:34 2021 +0400
+
+    New feature recaptcha
+
+commit 7025c8d5bf3dc206402a0523d4437b60b33313fb
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed May 5 23:38:19 2021 +0400
+
+    New feature Order Notes
+
+commit 3a5704737ccae9159457ba68c30bbe83a2f613c8
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed May 5 23:19:52 2021 +0400
+
+    New feature Order Notes
+
+commit ee07178af51e9b449c9ae4e54d885699ba6fec04
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed May 5 23:17:51 2021 +0400
+
+    New feature Order Notes
+
+commit ff74a1dd85694c87c5372cc294ff1f5a4ec9487b
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon May 3 22:30:39 2021 +0400
+
+    push verification
+
+commit 51b2165fe1cf394f9e52cc25680d21fbd251e761
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon May 3 17:56:53 2021 +0400
+
+    push new feature on sms
+
+commit f5ae18c9de70f22a024635de2aed7bcb9c4f407e
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon May 3 16:27:44 2021 +0400
+
+    push new feature on sms
+
+commit fb19f562042a743b1f815fe54878fa76cd70d01a
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon May 3 14:51:35 2021 +0400
+
+    push new feature on sms
+
+commit d3eb9ac9eaace0770657265838b21dc5c41183b4
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 29 19:25:40 2021 +0400
+
+    upload sms template feature
+
+commit 81b6224d40f792b75baf3aed42f43774caf91fda
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 29 19:05:15 2021 +0400
+
+    upload sms template feature
+
+commit 917173b500d39268e2bd125256e3c77866e7bff9
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 29 18:58:49 2021 +0400
+
+    upload sms template feature
+
+commit 62bc4c5dea83b75d2d671dabfd8b4b1601650294
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 27 19:32:10 2021 +0400
+
+    adjustment fix
+
+commit baf3c1ac80028021924948fc469ac4d56372d364
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 27 19:29:56 2021 +0400
+
+    adjustment fix
+
+commit 5908be9cf8b9a986ebb828be5deab42d1e1e2286
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 27 19:28:39 2021 +0400
+
+    adjustment fix
+
+commit 3e01c83b1f6e924a76e9f2d8af0c77dc8a94f2a3
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 27 18:43:05 2021 +0400
+
+    push feature email template manager
+
+commit 51cb6466432fa4180fe69de1e282a94f41e9bcb7
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 22 19:13:19 2021 +0400
+
+    adjustments
+
+commit d4224155946fbd3872e4239711be09b3a36d122b
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 22 19:07:27 2021 +0400
+
+    adjustments
+
+commit c327ccd596e06358fd0914b2419935028c145ea5
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 22 17:38:04 2021 +0400
+
+    create demo
+
+commit 4a77ca0a776207e37df66fd9e4926da6ce7b7d4c
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 22 17:36:15 2021 +0400
+
+    create demo
+
+commit b1dbecb136770e93590f19364972ef17cec5defa
+Author: glenn13 <f.glenn.abalos>
+Date:   Thu Apr 22 17:21:02 2021 +0400
+
+    add module for device price update notification and demo for email template manager
+
+commit 4a5e85bd6be4fbdac250a76838e4996ac1c6dd6e
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed Apr 21 17:25:03 2021 +0400
+
+    fix the issue on cart page
+
+commit e7e404087217ccad0a7ad1c69d67f1e49153cdfd
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 20 20:12:26 2021 +0400
+
+    upload 404 page
+
+commit 2038463db9d5da952a77424d8c1c2c64ca64166a
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 20 19:46:56 2021 +0400
+
+    adjustments
+
+commit a2beb008a3dc37cf9719f55f32febab10998576e
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 20 13:59:52 2021 +0400
+
+    adjustments
+
+commit b96c8f6c5b07c6343418e43b1510a8862ebd779d
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 20 13:56:25 2021 +0400
+
+    change page builder to construction
+
+commit 5723e4523ba30a9ecd199ce36982ba4fae1b87b4
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 20:43:40 2021 +0400
+
+    change the fontfamily
+
+commit add302fdb9e6c87ad8815b61931c951387ab0585
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 19:56:18 2021 +0400
+
+    fix issue
+
+commit ad76d9d8781344c4d96b4a42183f58c69f5d92a5
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 19:53:43 2021 +0400
+
+    fix issue
+
+commit 088c4a3e0b1e15f4c246b7079967be7c07385c61
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 19:51:31 2021 +0400
+
+    fix issue
+
+commit b81dad19eea6135fab8d6517620308acbdb8e886
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 19:34:01 2021 +0400
+
+    fix issue
+
+commit 311d50b5a927085acf4d208e43a0e58f087739df
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 19:26:24 2021 +0400
+
+    fix issues
+
+commit 9ff15b619e29a74239d48af4fed1740c35736728
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 17:29:44 2021 +0400
+
+    updat econfiguration
+
+commit 073790afe11829ee3da02cbf21b4fa9a318085b0
+Author: glenn13 <f.glenn.abalos>
+Date:   Sun Apr 18 16:44:07 2021 +0400
+
+    adjustment on frontend pagebuilder
+
+commit 8b1f7479a08f216f6671fb364fb11d1c90bdbee1
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Thu Apr 15 14:35:28 2021 +0400
+
+    do page builder on front end
+
+commit 7b89ee7fd8d5ac3f89cb6d810c1380e1216e8d53
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed Apr 14 21:31:04 2021 +0400
+
+    make model for page builder
+
+commit 84b789ea7a118cf72b76a2bec5d8d55c622a7c31
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Wed Apr 14 14:58:11 2021 +0400
+
+    Update ReadMe
+
+commit df2aa8ee07523d9c7ea50b6d940b74ca2f682f8e
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Wed Apr 14 14:54:59 2021 +0400
+
+    push page builder block components
+
+commit 420fe9a341edd5feceb6728c2359cf7051cc1463
+Author: glenn13 <f.glenn.abalos>
+Date:   Wed Apr 14 00:40:27 2021 +0400
+
+    adjustment on page builder
+
+commit 9861e406733dbed44bdae7f17d65c1a8d6510b77
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Tue Apr 13 15:00:59 2021 +0400
+
+    pagebuilder
+
+commit bb334bdacf9a7155c4441d0385ba595bc46d0a06
+Merge: e7a2202 8c20915
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Tue Apr 13 09:36:30 2021 +0400
+
+    Merge branch 'master' of https://github.com/sapere-jelson/tronicspay
+
+commit e7a22027ceedbea611097bd68961fdc6dbfac87b
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Tue Apr 13 08:05:23 2021 +0400
+
+    remove comment in routes
+
+commit 8c132ee6fe37029177e179ab65e04a3fab314ab2
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Mon Apr 12 17:59:02 2021 +0400
+
+    adjustment on brands and meta tags
+
+commit 8e1c22bc8510d73a78662a50f03939d23fec77c1
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Mon Apr 12 10:59:09 2021 +0400
+
+    add meta tags for page feature
+
+commit 8f52419d647841dde15fb3e1bb0c519418f4c7b8
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Thu Apr 8 17:59:13 2021 +0400
+
+    implementation of meta tags
+
+commit a1da7ee44e2f1f9998884ba86856c8620d394196
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Thu Apr 8 17:58:21 2021 +0400
+
+    implementation of meta tags
+
+commit 228748a721aafd1ec9baa958d8663eaf48d67c4b
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Wed Apr 7 17:45:59 2021 +0400
+
+    add update order status and badge on status
+
+commit b6fed45a69c3c6628acf11f3a04b93733704eb90
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Apr 6 20:05:33 2021 +0400
+
+    push favicon.ico
+
+commit 7c533dc4a704ffd19ee1dc73ad5214e29d6cbd54
+Author: glenn13 <f.glenn.abalos@gmail.com>
+Date:   Tue Apr 6 17:55:02 2021 +0400
+
+    adjustment on design and integration of payment for orders
+
+commit f2be4055f0513a7f6737ae42c9f1572574ec24e2
+Merge: bf578b6 20eea38
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Apr 5 00:23:02 2021 +0400
+
+    Merge branch 'develop' of https://github.com/sapere-jelson/tronicspay into develop
+
+commit bf578b637f7f42f26e77bd4879baae40332f1faf
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Apr 5 00:18:34 2021 +0400
+
+    integration of paypal and email template
+
+commit 20eea388d035234c4c8e17fdef71f58c755d3371
+Author: sapere-jelson <80928147+sapere-jelson@users.noreply.github.com>
+Date:   Thu Apr 1 05:42:07 2021 +0800
+
+    Update .gitignore
+
+commit 7b798bf73e3792e982613f43e75b6ea495cafcf3
+Author: Jelson <jelson@saperemarketing.com>
+Date:   Thu Apr 1 03:31:48 2021 +0800
+
+    include upload folder in their server
+
+commit 700d1e697cce185d692d6148d9f4069ea782c26a
+Author: sapere-jelson <80928147+sapere-jelson@users.noreply.github.com>
+Date:   Thu Apr 1 03:26:31 2021 +0800
+
+    Update .gitignore
+
+commit 4551f07e1d9c11b04d640ea2f8f4bd8a6736c1a3
+Author: glenn13 <f.glenn.abalos>
+Date:   Tue Mar 30 19:34:58 2021 +0400
+
+    adjustment on ordering
+
+commit 81be7477d97c7284f6d51f8797d37944e4c14b3e
+Merge: 69e03a4 af172df
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Mar 29 22:06:15 2021 +0400
+
+    merge product categories to develop
+
+commit 8c20915f79ceaab9ad774d3088d9841e9ee4bfbd
+Merge: 73fc558 af172df
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Mar 29 22:00:18 2021 +0400
+
+    merge product categories feature branch to develop
+
+commit af172df004c69ee6d8d32c3dbb3fc6f5362f3537
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Mar 29 21:53:54 2021 +0400
+
+    adjustment on product categories
+
+commit 69e03a401fc9fe287acd8830b3f2dc684b4dfe00
+Merge: 4c7557f 64f1c39
+Author: sapere-jelson <80928147+sapere-jelson@users.noreply.github.com>
+Date:   Tue Mar 23 02:59:18 2021 +0800
+
+    Merge pull request #1 from sapere-jelson/feature/productcategories
+    
+    Feature/productcategories
+
+commit 64f1c39d0eb733b9145b46819d72a1d575787245
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Mar 22 21:51:01 2021 +0400
+
+    remove comment
+
+commit 902a986f8f15537884059f309ec18eb83a331ec6
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Mar 22 21:48:29 2021 +0400
+
+    fix issues
+
+commit 82da97a5a37a5497f6caa0ddfc7ff24ed2c60c50
+Author: glenn13 <f.glenn.abalos>
+Date:   Mon Mar 22 21:38:46 2021 +0400
+
+    initial commit on this branch
+
+commit 4c7557f9eeba0e0abb672e29363d00ba23992117
+Author: Jelson <jelson@saperemarketing.com>
+Date:   Fri Mar 19 07:36:08 2021 +0800
+
+    create develop branch
+
+commit 73fc558de7e9ba52e8e70126c2fe760d20f15fd5
+Author: Jelson <jelson@saperemarketing.com>
+Date:   Fri Mar 19 07:09:29 2021 +0800
+
+    initial commit for tronicspay transferred to github repo

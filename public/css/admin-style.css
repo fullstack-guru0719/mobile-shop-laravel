@@ -1,0 +1,225 @@
+.select-sm {
+    height: 31px;
+    padding: 0px 8px;
+    font-size: 14px;
+}
+.table-sm {
+    width: 100%;
+}
+.paginate_input {
+    width: 40px;
+}
+.paginate_of,
+.paginate_page {
+    padding: 0 5px;
+}
+.hideme {
+    display: none !important;
+}
+body {
+    font-size: 14px;
+}
+.bg-red,
+.callout.callout-danger,
+.alert-danger,
+.alert-error,
+.label-danger,
+.modal-danger .modal-body {
+    background-color: #dd4b39 !important;
+    color: #fff !important;
+    text-align: left;
+}
+.label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline;
+    padding: 0.2em 0.6em 0.3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25em;
+}
+.label-default {
+    background-color: #777;
+}
+.label-primary {
+    background-color: #337ab7;
+}
+.label-success {
+    background-color: #5cb85c;
+}
+.label-info {
+    background-color: #5bc0de;
+}
+.label-warning {
+    background-color: #f0ad4e;
+}
+.label-danger {
+    background-color: #d9534f;
+}
+.pull-right {
+    float: right !important;
+}
+.customer-sidebar {
+    background: #745702;
+}
+.social-icons {
+    margin: 5px;
+    width: 40px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 5px #888888;
+}
+.nav-theme,
+.bg-theme,
+.btn-warning,
+.modal-header,
+.customer-sidebar > .sidebar > nav > ul > li > a.active,
+.nav-pills .nav-link.active {
+    background: #cd9901 !important;
+}
+.background-theme {
+    background: #cd9901 !important;
+}
+.modal-header {
+    color: #fff;
+}
+
+.aboutus-badge {
+    background: #e8e8e8;
+    border: 1px solid #aaa;
+    padding: 15px 15px 0 15px;
+}
+.w50px {
+    width: 50px;
+}
+.h5px {
+    height: 5px;
+}
+.b-image {
+    width: 150px !important;
+    height: 25px !important;
+}
+
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/**
+*   Theme Color
+*/
+.fontColorThemeGreen {
+    color: #72ab27;
+}
+.fontWhite {
+    color: #fff !important;
+}
+.fontYellow {
+    color: #cd9901 !important;
+}
+.fontGray1 {
+    color: #a3b5bd !important;
+}
+.dark-mode-nav {
+    background: #343a40 !important;
+}
+.fontGray2 {
+    color: #b0b0b4;
+}
+
+.fontGray2-5 {
+    color: #303030 !important;
+}
+
+/**
+*   Fonts
+*/
+.font-bold {
+    font-weight: bold;
+}
+.font1rem {
+    font-size: 1rem !important;
+}
+.font12px {
+    font-size: 12px !important;
+}
+
+.font14px {
+    font-size: 14px !important;
+}
+.font20px {
+    font-size: 20px !important;
+}
+
+/**
+*   Borders
+*/
+.border0 {
+    border: 0 !important;
+}
+
+/**
+*   Paddings
+*/
+
+.padding0 {
+    padding: 0 !important;
+}
+.padding5 {
+    padding: 5px;
+}
+.pt15 {
+    padding-top: 15px;
+}
+.ptb20px {
+    padding: 20px 0 20px 0;
+}
+
+/**
+*   Margins
+*/
+.ml10 {
+    margin-left: 10px;
+}
+.mt10 {
+    margin-top: 10px;
+}
+.mt5 {
+    margin-top: 5px;
+}
+
+/**
+*   Widths
+*/
+.w90px {
+    width: 90px;
+}
+.w95px {
+    width: 95px;
+}
+
+
+
+.romw-badge .romw-badge-lj6Va39nDtC6vl9e0eurxMZ2SFK7tUBgDYYxuplFXijsC25OZU p, 
+.romw-badge .romw-badge-lj6Va39nDtC6vl9e0eurxMZ2SFK7tUBgDYYxuplFXijsC25OZU p a {
+    /* display: none !important;
+    visibility: hidden !important; */
+    color: #fff;
+    position:fixed;
+}
+.romw-badge-single {
+    width: 300px !important;
+    margin: 20px 0;
+}
+
+.intl-tel-input {
+    width: 100%;
+}
+
+.width50 {
+    width: 50px;
+}

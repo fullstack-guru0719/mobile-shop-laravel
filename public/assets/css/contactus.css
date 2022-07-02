@@ -1,0 +1,55 @@
+.contactus-header {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: Poppins, sans-serif;
+  font-size: 55px;
+  line-height: 60px;
+  font-weight: 400;
+  color: #000;
+}
+.contact-wrapper {
+  width: 100%;
+  margin-top: 50px;
+  padding: 50px;
+  border-radius: 20px;
+  background-color: #fff;
+  text-align: left;
+}
+.contact-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(9%, #fff), to(#818181));
+  background-image: linear-gradient(180deg, #fff 9%, #818181);
+}
+.email {
+  font-family: Poppins, sans-serif;
+  color: #333;
+  font-size: 35px;
+  line-height: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+.contact-media i {
+  position: relative;
+  top: 5px;
+  padding-right: 25px;
+}

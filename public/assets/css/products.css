@@ -1,0 +1,101 @@
+.products-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  min-height: 40vh;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #ebebeb;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(../images/bg-4.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/bg-4.jpg);
+  background-position: 0px 0px, 50% 90%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+  background-attachment: scroll, fixed;
+}
+
+.products-header {
+  color: #fff;
+  font-size: 70px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+.product-name {
+  font-size: 18px;
+  padding-top: 15px;
+  color: #999;
+}
+.tronics .tronics-wrap {
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+.tronics .tronics-wrap::before {
+  content: "";
+  background: rgb(45 45 45 / 60%);
+  position: absolute;
+  left: 100%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  transition: all ease-in-out 0.3s;
+  z-index: 2;
+}
+.tronics .tronics-wrap .tronics-links {
+  opacity: 0;
+  left: 0;
+  right: 0;
+  top: calc(50% - 36px);
+  text-align: center;
+  z-index: 3;
+  position: absolute;
+  transition: all ease-in-out 0.3s;
+}
+.tronics .tronics-wrap:hover::before {
+  left: 0;
+}
+.tronics .tronics-wrap h3 {
+  color: #353535;
+}
+.tronics .tronics-wrap:hover .tronics-links {
+  opacity: 1;
+  top: calc(50% - 18px);
+}
+.product-image-thumbs {
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 2rem;
+}
+.product-image-thumb {
+  box-shadow: 0 1px 2px rgba(0,0,0,.075);
+  border-radius: .25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 1rem;
+  max-width: 7rem;
+  padding: .5rem;
+}
+.product-image-thumb img {
+  max-width: 100%;
+  height: auto;
+  -ms-flex-item-align: center;
+  align-self: center;
+}

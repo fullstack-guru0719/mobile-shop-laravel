@@ -1,0 +1,40 @@
+{
+    "name": "saperemarketing/cart",
+    "description": "Laravel 8 Shoppingcart",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jelson Lanto",
+            "email": "jelson@saperemarketing.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "^8.18",
+        "illuminate/session": "^8.18",
+        "illuminate/events": "^8.18"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.4",
+        "orchestra/testbench": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Saperemarketing\\SCart\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Saperemarketing\\Tests\\SCart\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Saperemarketing\\SCart\\ShoppingcartServiceProvider"
+            ]
+        }
+    }
+}
